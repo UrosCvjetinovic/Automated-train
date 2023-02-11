@@ -1,4 +1,4 @@
-# Automated-train
+# Automated-train -- TODO: TRANSLATE AND REFACTOR MD
 
 ##  PROJEKTNI ZADATAK
 
